@@ -482,5 +482,6 @@ export const mockData = {
     }
   ],
   "title": "HomeNav",
-  "_fileSha": "747f729c81c454ec351d5498c431a0f9d526aeb9"
+  "_fileSha": "81c41c0ea099aa8bb1366be061534e2e895b0e1e",
+  "search": "duckduckgo"
 }
