@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "SelfHost",
       "icon": "💥",
       "order": 0,
       "sites": [
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航",
-  "search": "bing",
-  "_fileSha": "cf9e9f1ad8644add6c0918786cae6707de255aaf"
+  "title": "猫猫导航"
 }
