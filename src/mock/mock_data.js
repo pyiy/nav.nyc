@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "HomeNav",
-  "_fileSha": "81c41c0ea099aa8bb1366be061534e2e895b0e1e",
-  "search": "duckduckgo"
+  "title": "HomeNav"
 }
