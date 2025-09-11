@@ -38,6 +38,13 @@ export const mockData = {
           "name": "MoonTV",
           "url": "https://tv3.hiing.net/",
           "description": "on netlify with upstash Redis"
+        },
+        {
+          "id": "site-1757601440218",
+          "name": "KatelyaTV",
+          "url": "https://tv4.hiing.net/",
+          "description": "on netlify with upstash redis",
+          "icon": ""
         }
       ]
     },
