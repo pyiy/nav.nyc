@@ -25,6 +25,13 @@ export const mockData = {
           "url": "https://notesh.hiing.net/",
           "description": "Qbin on deno / pg on neon",
           "icon": ""
+        },
+        {
+          "id": "site-1757595800336",
+          "name": "LibreTV",
+          "url": "https://tv2.hiing.net/",
+          "description": "on netlify no db & no H",
+          "icon": ""
         }
       ]
     },
