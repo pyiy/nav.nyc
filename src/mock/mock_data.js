@@ -52,6 +52,18 @@ export const mockData = {
           "url": "https://tv.hiing.net/",
           "description": "on netlify with upstash Redis",
           "icon": ""
+        },
+        {
+          "id": "site-1757603099780",
+          "name": "静态html 1",
+          "url": "https://labs.hiing.net/",
+          "description": "on netlify"
+        },
+        {
+          "id": "site-1757603132463",
+          "name": "静态html 2",
+          "url": "https://lab.hiing.net/",
+          "description": "on serv00.panel1"
         }
       ]
     },
