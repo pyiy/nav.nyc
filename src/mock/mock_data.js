@@ -71,6 +71,13 @@ export const mockData = {
           "url": "https://umami.pull.eu.org/",
           "description": "on vercel with neonDB",
           "icon": ""
+        },
+        {
+          "id": "site-1757864407848",
+          "name": "kuma 监控",
+          "url": "https://status.pull.eu.org/",
+          "description": "on fly.io with sqlite",
+          "icon": ""
         }
       ]
     },
