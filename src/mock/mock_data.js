@@ -64,6 +64,13 @@ export const mockData = {
           "name": "静态html 2",
           "url": "https://lab.hiing.net/",
           "description": "on serv00.panel1"
+        },
+        {
+          "id": "site-1757844230702",
+          "name": "umami Analytics",
+          "url": "https://umami.pull.eu.org/",
+          "description": "on vercel with neonDB",
+          "icon": ""
         }
       ]
     },
