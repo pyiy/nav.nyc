@@ -83,7 +83,7 @@ export const mockData = {
           "id": "site-1758421136370",
           "name": "FreshRSS",
           "url": "https://rss.pull.eu.org/",
-          "description": "on us-east-1.run.claw"
+          "description": "on us-east-1.run.claw 数据与folo同步"
         }
       ]
     },
