@@ -78,6 +78,12 @@ export const mockData = {
           "url": "https://status.pull.eu.org/",
           "description": "on fly.io with sqlite",
           "icon": ""
+        },
+        {
+          "id": "site-1758421136370",
+          "name": "FreshRSS",
+          "url": "https://rss.pull.eu.org/",
+          "description": "on us-east-1.run.claw"
         }
       ]
     },
