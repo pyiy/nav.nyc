@@ -89,7 +89,7 @@ export const mockData = {
           "id": "site-1758427727049",
           "name": "TTRss",
           "url": "http://rss2.pull.eu.org/",
-          "description": "on zeabur with PG sql",
+          "description": "on zeabur with PG sql ",
           "icon": ""
         }
       ]
