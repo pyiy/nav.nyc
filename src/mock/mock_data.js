@@ -91,6 +91,13 @@ export const mockData = {
           "url": "http://rss2.pull.eu.org/",
           "description": "on zeabur with PG sql ",
           "icon": ""
+        },
+        {
+          "id": "site-1758432373987",
+          "name": "FreshRSS3",
+          "url": "https://rss3.pull.eu.org/",
+          "description": "on northflank",
+          "icon": ""
         }
       ]
     },
