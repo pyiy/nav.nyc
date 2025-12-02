@@ -7,18 +7,18 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1764676561310",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "全面替代搜索",
+          "icon": "https://www.faviconextractor.com/favicon/www.perplexity.ai"
+        },
+        {
           "id": "cloudflare",
           "name": "HuggingChat",
           "url": "https://huggingface.co/chat/",
           "description": "抱抱脸",
           "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
-        },
-        {
-          "id": "site-1764674322720",
-          "name": "Cerebras Inference",
-          "url": "https://chat.cerebras.ai/",
-          "description": "编程向",
-          "icon": "https://www.faviconextractor.com/favicon/chat.cerebras.ai"
         },
         {
           "id": "site-1764674586791",
@@ -49,11 +49,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/gru.ai"
         },
         {
-          "id": "site-1764676561310",
-          "name": "Perplexity",
-          "url": "https://www.perplexity.ai/",
-          "description": "全面替代搜索",
-          "icon": "https://www.faviconextractor.com/favicon/www.perplexity.ai"
+          "id": "site-1764674322720",
+          "name": "Cerebras Inference",
+          "url": "https://chat.cerebras.ai/",
+          "description": "编程向",
+          "icon": "https://www.faviconextractor.com/favicon/chat.cerebras.ai"
         }
       ]
     },
