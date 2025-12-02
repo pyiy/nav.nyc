@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://heck.ai/",
           "description": "chatgpt向，免费够用",
           "icon": "https://www.faviconextractor.com/favicon/heck.ai"
+        },
+        {
+          "id": "site-1764688239379",
+          "name": "ChatK",
+          "url": "https://chat1.oaichat.cc/",
+          "description": "Open WebUI 个人",
+          "icon": "https://www.faviconextractor.com/favicon/chat1.oaichat.cc"
         }
       ]
     },
