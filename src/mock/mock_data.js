@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.perplexity.ai"
         },
         {
+          "id": "site-1764688142216",
+          "name": "Lmarena",
+          "url": "https://lmarena.ai/",
+          "description": "AI竞技场",
+          "icon": "https://www.faviconextractor.com/favicon/lmarena.ai"
+        },
+        {
           "id": "cloudflare",
           "name": "HuggingChat",
           "url": "https://huggingface.co/chat/",
@@ -122,7 +129,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用导航🐱",
-  "_fileSha": "aeda585bc69474755b053169dd1a7dfa33571aa6",
-  "search": "duckduckgo"
+  "title": "自用导航🐱"
 }
