@@ -26,6 +26,20 @@ export const mockData = {
           "url": "https://chat.mistral.ai/",
           "description": "法国产，输出快",
           "icon": "https://www.faviconextractor.com/favicon/chat.mistral.ai"
+        },
+        {
+          "id": "site-1764674677131",
+          "name": "copilot",
+          "url": "https://copilot.microsoft.com/",
+          "description": "微软copilot",
+          "icon": "https://www.faviconextractor.com/favicon/copilot.microsoft.com"
+        },
+        {
+          "id": "site-1764674721911",
+          "name": "DuckAI",
+          "url": "https://Duck.ai",
+          "description": "鸭鸭走",
+          "icon": "https://www.faviconextractor.com/favicon/duck.ai"
         }
       ]
     },
