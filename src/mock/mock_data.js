@@ -29,7 +29,7 @@ export const mockData = {
         },
         {
           "id": "site-1764674677131",
-          "name": "copilot",
+          "name": "Copilot",
           "url": "https://copilot.microsoft.com/",
           "description": "微软copilot",
           "icon": "https://www.faviconextractor.com/favicon/copilot.microsoft.com"
