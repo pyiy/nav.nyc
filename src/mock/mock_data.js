@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://chat.cerebras.ai/",
           "description": "编程向",
           "icon": "https://www.faviconextractor.com/favicon/chat.cerebras.ai"
+        },
+        {
+          "id": "site-1764674586791",
+          "name": "Mistral AI",
+          "url": "https://chat.mistral.ai/",
+          "description": "法国产，输出快",
+          "icon": "https://www.faviconextractor.com/favicon/chat.mistral.ai"
         }
       ]
     },
