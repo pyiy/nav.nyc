@@ -69,7 +69,15 @@ export const mockData = {
       "name": "个人/小厂/够用",
       "icon": "🤖",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764680143592",
+          "name": "heck.ai",
+          "url": "https://heck.ai/",
+          "description": "chatgpt向，免费够用",
+          "icon": "https://www.faviconextractor.com/favicon/heck.ai"
+        }
+      ]
     },
     {
       "id": "dev-tools",
