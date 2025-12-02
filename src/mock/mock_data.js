@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://chat.cerebras.ai/",
           "description": "编程向",
           "icon": "https://www.faviconextractor.com/favicon/chat.cerebras.ai"
+        },
+        {
+          "id": "site-1764679631975",
+          "name": "Z.ai",
+          "url": "https://chat.z.ai/",
+          "description": "智谱",
+          "icon": "https://www.faviconextractor.com/favicon/chat.z.ai"
         }
       ]
     },
@@ -481,7 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "自用导航🐱",
-  "_fileSha": "47a3fbfa0b941d53a6b568cb39707fa877021a2a",
-  "search": "duckduckgo"
+  "title": "自用导航🐱"
 }
