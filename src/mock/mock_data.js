@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://Duck.ai",
           "description": "鸭鸭走",
           "icon": "https://www.faviconextractor.com/favicon/duck.ai"
+        },
+        {
+          "id": "site-1764676523094",
+          "name": "Gru.ai",
+          "url": "https://gru.ai/",
+          "description": "编程向",
+          "icon": "https://www.faviconextractor.com/favicon/gru.ai"
         }
       ]
     },
