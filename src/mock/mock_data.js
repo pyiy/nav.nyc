@@ -481,6 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "自用导航🐱",
-  "_fileSha": "0b521cdcf17a2db24b7c807dc825c6b74bc8e687"
+  "title": "自用导航🐱"
 }
