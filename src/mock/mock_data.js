@@ -88,7 +88,7 @@ export const mockData = {
           "id": "site-1764688239379",
           "name": "ChatK",
           "url": "https://chat1.oaichat.cc/",
-          "description": "Open WebUI 个人",
+          "description": "Open WebUI 个人，chat2也可用",
           "icon": "https://www.faviconextractor.com/favicon/chat1.oaichat.cc"
         }
       ]
