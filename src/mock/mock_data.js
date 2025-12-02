@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://huggingface.co/chat/",
           "description": "抱抱脸",
           "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1764674322720",
+          "name": "Cerebras Inference",
+          "url": "https://chat.cerebras.ai/",
+          "description": "编程向",
+          "icon": "https://www.faviconextractor.com/favicon/chat.cerebras.ai"
         }
       ]
     },
