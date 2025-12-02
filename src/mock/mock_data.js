@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://gru.ai/",
           "description": "编程向",
           "icon": "https://www.faviconextractor.com/favicon/gru.ai"
+        },
+        {
+          "id": "site-1764676561310",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "全面替代搜索",
+          "icon": "https://www.faviconextractor.com/favicon/www.perplexity.ai"
         }
       ]
     },
