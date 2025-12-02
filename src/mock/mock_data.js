@@ -8,10 +8,10 @@ export const mockData = {
       "sites": [
         {
           "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
+          "name": "HuggingChat",
+          "url": "https://huggingface.co/chat/",
+          "description": "抱抱脸",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
         }
       ]
     },
