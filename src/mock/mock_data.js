@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://z-image.62tool.com/",
           "description": "直接使用",
           "icon": "https://www.faviconextractor.com/favicon/z-image.62tool.com"
+        },
+        {
+          "id": "site-1764855240286",
+          "name": "Gitee Z-Image-Turbo",
+          "url": "https://ai.gitee.com/serverless-api?model=z-image-turbo",
+          "description": "100张/天，需登录",
+          "icon": "https://www.faviconextractor.com/favicon/ai.gitee.com"
         }
       ]
     },
