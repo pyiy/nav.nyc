@@ -126,6 +126,13 @@ export const mockData = {
           "url": "https://zimage.run/zh",
           "description": "需排队",
           "icon": "https://www.faviconextractor.com/favicon/zimage.run"
+        },
+        {
+          "id": "site-1764858821563",
+          "name": "Z-Image Turbo",
+          "url": "https://ibsgss.uk/",
+          "description": "Linux.Do>1",
+          "icon": "https://www.faviconextractor.com/favicon/ibsgss.uk"
         }
       ]
     },
