@@ -119,6 +119,13 @@ export const mockData = {
           "url": "https://ai.gitee.com/serverless-api?model=z-image-turbo",
           "description": "100张/天，需登录",
           "icon": "https://www.faviconextractor.com/favicon/ai.gitee.com"
+        },
+        {
+          "id": "site-1764855382803",
+          "name": "Z-Image-T 在线",
+          "url": "https://zimage.run/zh",
+          "description": "需排队",
+          "icon": "https://www.faviconextractor.com/favicon/zimage.run"
         }
       ]
     },
