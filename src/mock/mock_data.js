@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://chat1.oaichat.cc/",
           "description": "Open WebUI 个人，chat2也可用",
           "icon": "https://www.faviconextractor.com/favicon/chat1.oaichat.cc"
+        },
+        {
+          "id": "site-1764854764754",
+          "name": "OpenClaude",
+          "url": "https://openclaude.me/",
+          "description": "Claude模型",
+          "icon": "https://www.faviconextractor.com/favicon/openclaude.me"
         }
       ]
     },
