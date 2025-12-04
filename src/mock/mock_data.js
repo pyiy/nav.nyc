@@ -4,7 +4,7 @@ export const mockData = {
       "id": "cloud",
       "name": "大厂AI",
       "icon": "☁️",
-      "order": 1,
+      "order": 0,
       "sites": [
         {
           "id": "site-1764676561310",
@@ -75,7 +75,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "个人/小厂/够用",
       "icon": "🤖",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "site-1764680143592",
@@ -101,6 +101,21 @@ export const mockData = {
       ]
     },
     {
+      "id": "design",
+      "name": "在线画图",
+      "icon": "🎨",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1764855147313",
+          "name": "Z-Image Turbo",
+          "url": "https://z-image.62tool.com/",
+          "description": "直接使用",
+          "icon": "https://www.faviconextractor.com/favicon/z-image.62tool.com"
+        }
+      ]
+    },
+    {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
@@ -115,31 +130,24 @@ export const mockData = {
       "sites": []
     },
     {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 5,
-      "sites": []
-    },
-    {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 6,
+      "order": 5,
       "sites": []
     },
     {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 6,
       "sites": []
     },
     {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 10,
+      "order": 7,
       "sites": []
     }
   ],
