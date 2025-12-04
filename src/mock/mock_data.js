@@ -117,7 +117,7 @@ export const mockData = {
           "id": "site-1764855240286",
           "name": "Gitee Z-Image-Turbo",
           "url": "https://ai.gitee.com/serverless-api?model=z-image-turbo",
-          "description": "100张/天，需登录",
+          "description": "100张/天，需登录，可API",
           "icon": "https://www.faviconextractor.com/favicon/ai.gitee.com"
         },
         {
