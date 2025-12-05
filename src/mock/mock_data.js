@@ -163,6 +163,13 @@ export const mockData = {
           "url": "https://synthetic.new/",
           "description": "模型一般，API",
           "icon": "https://www.faviconextractor.com/favicon/synthetic.new"
+        },
+        {
+          "id": "site-1764908517706",
+          "name": "tokenfree",
+          "url": "https://www.tokenfree.ai/",
+          "description": "API/国产/100刀",
+          "icon": "https://www.faviconextractor.com/favicon/www.tokenfree.ai"
         }
       ]
     },
