@@ -17,7 +17,7 @@ export const mockData = {
           "id": "site-1764688142216",
           "name": "Lmarena",
           "url": "https://lmarena.ai/",
-          "description": "AI竞技场，beta子域也有",
+          "description": "AI竞技场，beta. 子域也有",
           "icon": "https://www.faviconextractor.com/favicon/lmarena.ai"
         },
         {
