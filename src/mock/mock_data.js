@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://exa.ai/search",
           "description": "搜索向，API/MCP，薅余额",
           "icon": "https://www.faviconextractor.com/favicon/exa.ai"
+        },
+        {
+          "id": "site-1764911283788",
+          "name": "Ai2",
+          "url": "https://playground.allenai.org/",
+          "description": "机器人向，自研模型",
+          "icon": "https://www.faviconextractor.com/favicon/playground.allenai.org"
         }
       ]
     },
