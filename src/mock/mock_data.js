@@ -71,6 +71,13 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1764924144186",
+          "name": "科技云知识库",
+          "url": "https://kb.cstcloud.cn/my",
+          "description": "建自己的知识库，by 科技云",
+          "icon": "https://www.faviconextractor.com/favicon/kb.cstcloud.cn"
+        },
+        {
           "id": "site-1764676523094",
           "name": "Gru.ai",
           "url": "https://gru.ai/",
