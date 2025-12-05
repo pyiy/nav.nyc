@@ -150,6 +150,13 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
+          "id": "site-1764924559700",
+          "name": "梦羽AI绘图",
+          "url": "https://sd.exacg.cc/",
+          "description": "后端用H200，需LD",
+          "icon": "https://www.faviconextractor.com/favicon/sd.exacg.cc"
+        },
+        {
           "id": "site-1764855147313",
           "name": "Z-Image Turbo",
           "url": "https://z-image.62tool.com/",
