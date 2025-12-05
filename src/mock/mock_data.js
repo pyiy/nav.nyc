@@ -184,6 +184,13 @@ export const mockData = {
           "url": "https://chat.akash.network/",
           "description": "有自研模型",
           "icon": "https://www.faviconextractor.com/favicon/chat.akash.network"
+        },
+        {
+          "id": "site-1764921937858",
+          "name": "ChatoraX AI",
+          "url": "https://ai-chatbot.top/",
+          "description": "DS，纯聊天，不用登陆",
+          "icon": "https://www.faviconextractor.com/favicon/ai-chatbot.top"
         }
       ]
     },
@@ -209,7 +216,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用AI导航🐱",
-  "_fileSha": "181b2a637880db6595895b083fac1bc9b90b89a8",
-  "search": "duckduckgo"
+  "title": "自用导航🐱"
 }
