@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://gru.ai/",
           "description": "编程向",
           "icon": "https://www.faviconextractor.com/favicon/gru.ai"
+        },
+        {
+          "id": "site-1764906023381",
+          "name": "Exa Search",
+          "url": "https://exa.ai/search",
+          "description": "搜索向，API/MCP，薅余额",
+          "icon": "https://www.faviconextractor.com/favicon/exa.ai"
         }
       ]
     },
