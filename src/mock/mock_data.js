@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://chat.z.ai/",
           "description": "智谱",
           "icon": "https://www.faviconextractor.com/favicon/chat.z.ai"
+        },
+        {
+          "id": "site-1764924282460",
+          "name": "阿里千问",
+          "url": "https://chat.qwen.ai/",
+          "description": "大厂",
+          "icon": "https://assets.alicdn.com/g/qwenweb/qwen-chat-fe/0.1.10/favicon.png"
         }
       ]
     },
