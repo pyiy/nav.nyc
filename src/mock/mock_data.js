@@ -49,13 +49,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/duck.ai"
         },
         {
-          "id": "site-1764676523094",
-          "name": "Gru.ai",
-          "url": "https://gru.ai/",
-          "description": "编程向",
-          "icon": "https://www.faviconextractor.com/favicon/gru.ai"
-        },
-        {
           "id": "site-1764674322720",
           "name": "Cerebras Inference",
           "url": "https://chat.cerebras.ai/",
@@ -76,7 +69,15 @@ export const mockData = {
       "name": "垂直功能向",
       "icon": "🛠️",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764676523094",
+          "name": "Gru.ai",
+          "url": "https://gru.ai/",
+          "description": "编程向",
+          "icon": "https://www.faviconextractor.com/favicon/gru.ai"
+        }
+      ]
     },
     {
       "id": "ai-tools",
