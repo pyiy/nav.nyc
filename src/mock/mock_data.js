@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://playground.allenai.org/",
           "description": "机器人向，自研模型",
           "icon": "https://www.faviconextractor.com/favicon/playground.allenai.org"
+        },
+        {
+          "id": "site-1764923841485",
+          "name": "华佗GPT II",
+          "url": "https://www.huatuogpt.cn/",
+          "description": "医疗健康向，速度快，数据古早",
+          "icon": "https://www.faviconextractor.com/favicon/www.huatuogpt.cn"
         }
       ]
     },
