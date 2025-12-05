@@ -177,6 +177,13 @@ export const mockData = {
           "url": "https://www.scnet.cn/ui/chatbot/",
           "description": "国产",
           "icon": "https://www.faviconextractor.com/favicon/www.scnet.cn"
+        },
+        {
+          "id": "site-1764920832274",
+          "name": "AkashChat",
+          "url": "https://chat.akash.network/",
+          "description": "有自研模型",
+          "icon": "https://www.faviconextractor.com/favicon/chat.akash.network"
         }
       ]
     },
@@ -202,6 +209,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用AI导航🐱",
-  "_fileSha": "a31ad3f1411602a8b667818853f17985447a9954"
+  "title": "自用导航🐱"
 }
