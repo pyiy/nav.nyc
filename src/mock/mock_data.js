@@ -74,7 +74,7 @@ export const mockData = {
           "id": "site-1764924144186",
           "name": "科技云知识库",
           "url": "https://kb.cstcloud.cn/my",
-          "description": "建自己的知识库，by 科技云",
+          "description": "建自己的团队知识库，by 科技云",
           "icon": "https://www.faviconextractor.com/favicon/kb.cstcloud.cn"
         },
         {
