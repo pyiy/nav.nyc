@@ -153,8 +153,8 @@ export const mockData = {
     },
     {
       "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
+      "name": "API向",
+      "icon": "🔧",
       "order": 4,
       "sites": []
     },
@@ -180,6 +180,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用AI导航🐱",
-  "_fileSha": "2fcd8d45b20e7f1fdfea950539d3e2ecd25f868a"
+  "title": "自用导航🐱"
 }
