@@ -72,10 +72,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "dev-tools",
+      "name": "垂直功能向",
+      "icon": "🛠️",
+      "order": 1,
+      "sites": []
+    },
+    {
       "id": "ai-tools",
       "name": "个人/小厂/够用",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "site-1764680143592",
@@ -104,7 +111,7 @@ export const mockData = {
       "id": "design",
       "name": "在线画图",
       "icon": "🎨",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "site-1764855147313",
@@ -137,13 +144,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 3,
-      "sites": []
-    },
-    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
@@ -172,7 +172,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用导航🐱",
-  "_fileSha": "a63a96f6e8f739a67ff7d02f4ac75e0f74650254",
-  "search": "duckduckgo"
+  "title": "自用导航🐱"
 }
