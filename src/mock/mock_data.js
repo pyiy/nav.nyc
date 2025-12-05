@@ -198,6 +198,13 @@ export const mockData = {
           "url": "https://www.k2think.ai/",
           "description": "K2Think自研模型，速度块",
           "icon": "https://www.faviconextractor.com/favicon/www.k2think.ai"
+        },
+        {
+          "id": "site-1764923155691",
+          "name": "LongCat",
+          "url": "https://longcat.chat/",
+          "description": "美团自研",
+          "icon": "https://www.faviconextractor.com/favicon/longcat.chat"
         }
       ]
     },
