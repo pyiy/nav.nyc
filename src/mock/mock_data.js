@@ -191,6 +191,13 @@ export const mockData = {
           "url": "https://ai-chatbot.top/",
           "description": "DS，纯聊天，不用登陆",
           "icon": "https://www.faviconextractor.com/favicon/ai-chatbot.top"
+        },
+        {
+          "id": "site-1764922928291",
+          "name": "K2Think",
+          "url": "https://www.k2think.ai/",
+          "description": "K2Think自研模型，速度块",
+          "icon": "https://www.faviconextractor.com/favicon/www.k2think.ai"
         }
       ]
     },
@@ -216,7 +223,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用导航🐱",
-  "_fileSha": "198aa4c4e23735f68be0d68f44e8e80327f805c5",
-  "search": "duckduckgo"
+  "title": "自用导航🐱"
 }
