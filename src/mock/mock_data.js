@@ -156,7 +156,15 @@ export const mockData = {
       "name": "API向",
       "icon": "🔧",
       "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764908139371",
+          "name": "Synthetic",
+          "url": "https://synthetic.new/",
+          "description": "模型一般",
+          "icon": "https://www.faviconextractor.com/favicon/synthetic.new"
+        }
+      ]
     },
     {
       "id": "finance",
