@@ -209,7 +209,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用AI导航🐱",
-  "_fileSha": "7cd019eeb513b520f6801474ece3da8dfc6bd3d6",
-  "search": "duckduckgo"
+  "title": "自用导航🐱"
 }
