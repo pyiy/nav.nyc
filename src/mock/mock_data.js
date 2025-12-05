@@ -153,7 +153,7 @@ export const mockData = {
     },
     {
       "id": "community",
-      "name": "API向",
+      "name": "基本不用",
       "icon": "🔧",
       "order": 4,
       "sites": [
@@ -161,7 +161,7 @@ export const mockData = {
           "id": "site-1764908139371",
           "name": "Synthetic",
           "url": "https://synthetic.new/",
-          "description": "模型一般",
+          "description": "模型一般，API",
           "icon": "https://www.faviconextractor.com/favicon/synthetic.new"
         }
       ]
