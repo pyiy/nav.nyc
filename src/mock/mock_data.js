@@ -165,11 +165,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/synthetic.new"
         },
         {
-          "id": "site-1764908517706",
-          "name": "tokenfree",
-          "url": "https://www.tokenfree.ai/",
-          "description": "API/国产/100刀",
-          "icon": "https://www.faviconextractor.com/favicon/www.tokenfree.ai"
+          "id": "site-1764909005825",
+          "name": "SCNet超算",
+          "url": "https://www.scnet.cn/ui/chatbot/",
+          "description": "国产",
+          "icon": "https://www.faviconextractor.com/favicon/www.scnet.cn"
         }
       ]
     },
