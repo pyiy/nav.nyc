@@ -150,18 +150,11 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "site-1764924559700",
+          "id": "site-1764986699043",
           "name": "梦羽AI绘图",
           "url": "https://sd.exacg.cc/",
-          "description": "后端用H200，需LD",
+          "description": "多款模型，后端H200",
           "icon": "https://www.faviconextractor.com/favicon/sd.exacg.cc"
-        },
-        {
-          "id": "site-1764855147313",
-          "name": "Z-Image Turbo",
-          "url": "https://z-image.62tool.com/",
-          "description": "直接使用",
-          "icon": "https://www.faviconextractor.com/favicon/z-image.62tool.com"
         },
         {
           "id": "site-1764855240286",
@@ -171,11 +164,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/ai.gitee.com"
         },
         {
-          "id": "site-1764855382803",
-          "name": "Z-Image-T 在线",
-          "url": "https://zimage.run/zh",
-          "description": "需排队",
-          "icon": "https://www.faviconextractor.com/favicon/zimage.run"
+          "id": "site-1764855147313",
+          "name": "Z-Image Turbo",
+          "url": "https://z-image.62tool.com/",
+          "description": "直接使用",
+          "icon": "https://www.faviconextractor.com/favicon/z-image.62tool.com"
         },
         {
           "id": "site-1764858821563",
@@ -183,6 +176,13 @@ export const mockData = {
           "url": "https://ibsgss.uk/",
           "description": "Linux.Do>1",
           "icon": "https://www.faviconextractor.com/favicon/ibsgss.uk"
+        },
+        {
+          "id": "site-1764855382803",
+          "name": "Z-Image-T 在线",
+          "url": "https://zimage.run/zh",
+          "description": "需排队",
+          "icon": "https://www.faviconextractor.com/favicon/zimage.run"
         }
       ]
     },
