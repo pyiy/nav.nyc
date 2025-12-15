@@ -482,5 +482,6 @@ export const mockData = {
     }
   ],
   "title": "自用AI导航🐱",
-  "_fileSha": "ea3f00cba99e7d9e1d5cb7b816f6a7836b8c233e"
+  "_fileSha": "7c86e51ef1371330d5b6f0965e9cb4a8d8097324",
+  "search": "duckduckgo"
 }
