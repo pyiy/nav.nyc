@@ -96,6 +96,13 @@ export const mockData = {
           "url": "https://labs.google/",
           "description": "另一个世界",
           "icon": "https://www.faviconextractor.com/favicon/labs.google"
+        },
+        {
+          "id": "site-1765947767600",
+          "name": "小米AI",
+          "url": "https://aistudio.xiaomimimo.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aistudio.xiaomimimo.com"
         }
       ]
     },
