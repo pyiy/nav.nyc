@@ -274,6 +274,13 @@ export const mockData = {
           "url": "https://app.reve.com/home",
           "description": "Veo模型，每天充电，类电影情景",
           "icon": "https://www.faviconextractor.com/favicon/app.reve.com"
+        },
+        {
+          "id": "site-1766036177537",
+          "name": "AI Gallery",
+          "url": "https://aigallery.app/",
+          "description": "无需登录，直接出图，LoRA为主",
+          "icon": "https://www.faviconextractor.com/favicon/aigallery.app"
         }
       ]
     },
@@ -378,7 +385,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用AI导航🐱",
-  "_fileSha": "0fbd26356d96479d411187d27f302028c5daee1c",
-  "search": "duckduckgo"
+  "title": "自用AI导航🐱"
 }
