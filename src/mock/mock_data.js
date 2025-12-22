@@ -184,13 +184,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/chat1.oaichat.cc"
         },
         {
-          "id": "site-1764854764754",
-          "name": "OpenClaude",
-          "url": "https://openclaude.me/",
-          "description": "Claude模型",
-          "icon": "https://www.faviconextractor.com/favicon/openclaude.me"
-        },
-        {
           "id": "site-1765437194184",
           "name": "zAI",
           "url": "https://zai.is/",
@@ -385,7 +378,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "自用AI导航🐱",
-  "_fileSha": "53dcf497f9852079eff9fa98141f836eee9c74df",
-  "search": "duckduckgo"
+  "title": "自用AI导航🐱"
 }
