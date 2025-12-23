@@ -189,6 +189,13 @@ export const mockData = {
           "url": "https://zai.is/",
           "description": "Discord登录，OpenUI系统，可banana，模型顶级",
           "icon": "https://www.faviconextractor.com/favicon/zai.is"
+        },
+        {
+          "id": "site-1766465042064",
+          "name": "Kimi2API",
+          "url": "https://kimi-ai.chat/chat/",
+          "description": "2api出来的，网页可用",
+          "icon": "https://www.faviconextractor.com/favicon/kimi-ai.chat"
         }
       ]
     },
