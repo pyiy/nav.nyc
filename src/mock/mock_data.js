@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "cat-0",
-      "name": "🛠️ 工具",
+      "name": "工具",
       "icon": "🛠️",
       "order": 0,
       "sites": [
@@ -213,7 +213,7 @@ export const mockData = {
     },
     {
       "id": "cat-2",
-      "name": "📚 电子书",
+      "name": "电子书",
       "icon": "📚",
       "order": 2,
       "sites": [
@@ -417,7 +417,7 @@ export const mockData = {
     },
     {
       "id": "cat-3",
-      "name": "📷 图片素材",
+      "name": "图片素材",
       "icon": "📷",
       "order": 3,
       "sites": [
@@ -537,7 +537,7 @@ export const mockData = {
     },
     {
       "id": "cat-4",
-      "name": "🎬 影视",
+      "name": "影视",
       "icon": "🎬",
       "order": 4,
       "sites": [
@@ -664,7 +664,7 @@ export const mockData = {
     },
     {
       "id": "cat-5",
-      "name": "🎮 游戏",
+      "name": "游戏",
       "icon": "🎮",
       "order": 5,
       "sites": [
@@ -777,7 +777,7 @@ export const mockData = {
     },
     {
       "id": "cat-6",
-      "name": "🎵 音乐",
+      "name": "音乐",
       "icon": "🎵",
       "order": 6,
       "sites": [
@@ -911,7 +911,7 @@ export const mockData = {
     },
     {
       "id": "cat-7",
-      "name": "📝 笔记",
+      "name": "笔记",
       "icon": "📝",
       "order": 7,
       "sites": [
@@ -1094,7 +1094,7 @@ export const mockData = {
     },
     {
       "id": "cat-8",
-      "name": "🌐 建站",
+      "name": "建站",
       "icon": "🌐",
       "order": 8,
       "sites": [
@@ -1284,7 +1284,7 @@ export const mockData = {
     },
     {
       "id": "cat-9",
-      "name": "☁️ 服务器",
+      "name": "服务器",
       "icon": "☁️",
       "order": 9,
       "sites": [
@@ -1467,7 +1467,7 @@ export const mockData = {
     },
     {
       "id": "cat-11",
-      "name": "📊 监控",
+      "name": "监控",
       "icon": "📊",
       "order": 11,
       "sites": [
@@ -1580,7 +1580,7 @@ export const mockData = {
     },
     {
       "id": "cat-12",
-      "name": "🗄️ 数据库",
+      "name": "数据库",
       "icon": "🗄️",
       "order": 12,
       "sites": [
@@ -1686,7 +1686,7 @@ export const mockData = {
     },
     {
       "id": "cat-13",
-      "name": "🔌 网络",
+      "name": "网络",
       "icon": "🔌",
       "order": 13,
       "sites": [
@@ -1729,7 +1729,7 @@ export const mockData = {
     },
     {
       "id": "cat-14",
-      "name": "🐧 运维",
+      "name": "运维",
       "icon": "🐧",
       "order": 14,
       "sites": [
@@ -1751,7 +1751,7 @@ export const mockData = {
     },
     {
       "id": "cat-15",
-      "name": "🖼️ 壁纸",
+      "name": "壁纸",
       "icon": "🖼️",
       "order": 15,
       "sites": [
@@ -1878,7 +1878,7 @@ export const mockData = {
     },
     {
       "id": "cat-16",
-      "name": "🎭 文化",
+      "name": "文化",
       "icon": "🎭",
       "order": 16,
       "sites": [
@@ -1991,7 +1991,7 @@ export const mockData = {
     },
     {
       "id": "cat-17",
-      "name": "📊 PPT",
+      "name": "PPT",
       "icon": "📊",
       "order": 17,
       "sites": [
@@ -2041,7 +2041,7 @@ export const mockData = {
     },
     {
       "id": "cat-18",
-      "name": "🔞 成人",
+      "name": "成人",
       "icon": "🔞",
       "order": 18,
       "sites": [
@@ -2105,7 +2105,7 @@ export const mockData = {
     },
     {
       "id": "cat-19",
-      "name": "📌 其他",
+      "name": "其他",
       "icon": "📌",
       "order": 19,
       "sites": [
