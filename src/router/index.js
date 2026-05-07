@@ -11,6 +11,14 @@ const router = createRouter({
       component: NavHomeView,
     },
     {
+      path: '/tags',
+      name: 'tags',
+      component: () => import('../views/TagsView.vue'),
+      meta: {
+        title: '标签云 - 猫猫导航'
+      }
+    },
+    {
       path: '/admin',
       name: 'admin',
       component: () => import('../views/AdminView.vue'),
@@ -30,15 +38,12 @@ const router = createRouter({
   ],
 })
 
-// 路由前置守卫
 router.beforeEach((to, from, next) => {
-  // 设置页面标题
   if (to.meta?.title) {
     document.title = to.meta.title
   } else {
     document.title = '猫猫导航'
   }
-
   next()
 })
 
