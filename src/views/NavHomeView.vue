@@ -73,6 +73,7 @@
     <main class="main-content">
                   <!-- 顶部搜索栏 -->
       <header class="search-header">
+        <router-link to="/tags" class="tags-link">🏷️ 标签</router-link>
         <div class="search-container">
           <div class="search-engine-selector">
             <img :src="searchEngines[selectedEngine].icon" :alt="selectedEngine" class="engine-logo" />
@@ -1483,4 +1484,40 @@ onUnmounted(() => {
 .dark .unlock-btn:hover:not(:disabled) {
   box-shadow: 0 10px 30px rgba(59, 130, 246, 0.4);
 }
+
+.tags-link {
+  text-decoration: none;
+  color: var(--text-color, #333);
+  font-size: 14px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--border-color, #e0e0e0);
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+
+.tags-link:hover {
+  background: var(--primary-color, #409eff);
+  color: #fff;
+}
+
+.dark .tags-link {
+  background: #16213e;
+  border-color: #2a2a4a;
+  color: #e0e0e0;
+}
+
+.dark .tags-link:hover {
+  background: #409eff;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .tags-link {
+    font-size: 12px;
+    padding: 4px 10px;
+  }
+}
 </style>
+
